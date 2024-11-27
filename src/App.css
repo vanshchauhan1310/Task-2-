@@ -7,6 +7,32 @@
   pointer-events: none;
 }
 
+
+.custom-text {
+  font-family: 'Sharp Grotesk', sans-serif;
+  font-size: 40.33px;
+  font-weight: 700;
+  line-height: normal;
+  text-align: left;
+}
+
+
+.custom-paragraph {
+  font-family: 'SF Pro Display', sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  text-align: left;
+  margin: unset ;
+}
+
+
+.custom-para{
+font-family: 'SF Pro Display', sans-serif;
+font-size: 19px;
+font-weight: 100;
+text-align: center;
+
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
